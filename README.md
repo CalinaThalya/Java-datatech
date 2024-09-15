@@ -6,6 +6,11 @@ Em seguida, precisa selecionar qual método vai querer, GET, POST, PUT, DELETE
 
 # Vídeo do deploy na nuvem e o funcionamento do projeto:
  https://youtu.be/WB0asTmQsXo 
+
+# Fluxograma da arquitetura de solução
+![image](https://github.com/user-attachments/assets/6737d09c-7206-4d34-8f3d-34580222ac46)
+
+ 
 # Vídeo de Apresentação do Projeto
 Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar aqui: https://www.youtube.com/watch?v=TsUd9z82e2E.
 
