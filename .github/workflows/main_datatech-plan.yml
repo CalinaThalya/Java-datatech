@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'datatech-plan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C15992DB5A44F34A1FA840386D7C241 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C5147DF818F4A8CA6738E5C6F0182AF }}
           package: '*.jar'
