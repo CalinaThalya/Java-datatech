@@ -5,7 +5,7 @@
 **Responsabilidade no Projeto:** criação do controller , cronograma;
 
 **Nome Completo:** Calina Thalya Santana da Silva- rm552523
-**Responsabilidade no Projeto:** criação do service , documentação/organização no github
+**Responsabilidade no Projeto:** criação do service , documentação/organização no github e deploy completo na nuvem
 
 **Nome Completo:** Geovana Ribeiro Domingos Silva- rm99646
 **Responsabilidade no Projeto:** criação do DTO e organização do banco de dados
