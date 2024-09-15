@@ -9,6 +9,9 @@ Em seguida, precisa selecionar qual método vai querer, GET, POST, PUT, DELETE
 # Vídeo de Apresentação do Projeto
 Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar aqui: https://www.youtube.com/watch?v=TsUd9z82e2E.
 
+# Proposta:
+A proposta do Grupo DataTech para revolucionar o setor varejista com uma assistente virtual inteligente. Descubra como essa solução inovadora pode analisar sentimentos, otimizar o atendimento ao cliente e impulsionar o crescimento das empresas. Explore o potencial das tecnologias de processamento de linguagem natural e aprendizado de máquina, e embarque nessa jornada de transformação digital no varejo. Nesse projeto de java fizemos um crud para cadastro de empresa e produtos, para que nas próxima sprints seja possível fazer a comparação e acrescentar a assistente virtual.
+
 # Atualizaçôes:
 No projeto em andamento, foram realizadas correções significativas, incluindo a resolução de problemas relacionados ao acesso ao banco de dados e ao cadastro de produtos. Além disso, foi implementado um sistema completo de CRUD (Create, Read, Update, Delete) para o gerenciamento de produtos. Essa funcionalidade foi integrada com o intuito de permitir que as empresas registrem seus produtos e recebam feedback dos clientes.
 
