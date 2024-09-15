@@ -28,7 +28,7 @@ O projeto agora conta também com a implementação do Spring MVC, oferecendo um
 
 ![image](https://github.com/user-attachments/assets/d8e91cb2-bffc-4283-a726-a3a3806bf856)
 
-# Imagem dos Diagramas de classe:
+# Imagem dos Diagramas de classe de JAVA:
 ![image](https://github.com/NathanNunesCalsonari/JavaAdvanced_Sprint2/assets/130010914/c787ba51-d6e9-449f-82c0-b08eab6d44bf)
 
 ![image](https://github.com/NathanNunesCalsonari/JavaAdvanced_Sprint2/assets/130010914/c6968ffc-ac64-4226-b28a-c804ee2324cb)
