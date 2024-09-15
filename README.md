@@ -1,5 +1,4 @@
 # DataTech
-**Integrantes do Grupo:**
 # Instruções de Execução
 Para executar o programa, é necessário ter o Intellij ou Eclipse instalado em seu computador. Em seguida, precisa carregar as dependências e depois é necessário fazer os testes ou em algum navegador ou no postman
 
