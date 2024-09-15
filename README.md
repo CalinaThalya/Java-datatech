@@ -38,7 +38,7 @@ O projeto agora conta também com a implementação do Spring MVC, oferecendo um
 
 # Endpoints:
 
-* empresa/listar *
+* /empresa/listar *
 
 * /produto/listar *
 
