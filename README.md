@@ -21,7 +21,8 @@ Para executar o programa, é necessário ter o Intellij ou Eclipse instalado em 
 
 Em seguida, precisa selecionar qual método vai querer, GET, POST, PUT, DELETE
 
-# Vídeo do deploy na numem e o funcionamento do projeto
+# Vídeo do deploy na numem e o funcionamento do projeto:
+ https://youtu.be/WB0asTmQsXo 
 # Vídeo de Apresentação do Projeto
 Assista ao vídeo de apresentação da proposta tecnológica, público-alvo e problemas que a aplicação se propõe a solucionar aqui: https://www.youtube.com/watch?v=TsUd9z82e2E.
 
